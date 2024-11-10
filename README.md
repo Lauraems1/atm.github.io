@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# ATM exercise: Deposite & Cash Back
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description: In this exercise, we learn how to use useState in a React App.
+
+Improvements: The exercise shown in Dr. Williams' video was used as a base to create the requested ATM GitHub repository. I modified it a bit as follows:
+* Showing different colors for each of the buttons (green for Deposit button and red for Cash Back button.
+* The Submit button is desactivated if the user tries to withraw more money (with the Cash Back button) than the one shown in the Account Balance.
+* The user cannot Deposit or withraw (with the Cash Back button) negative amounts of Money.
+
+## Image
+
+<img src="Captura_ATM_exercise_2024-11-10.png" width='300'/>
+
 
 ## Available Scripts
 
