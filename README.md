@@ -9,9 +9,7 @@ Improvements: The exercise shown in Dr. Williams' video was used as a base to cr
 
 ## Image
 
-<img src="Captura_ATM_exercise_2024-11-10.png" width='300'/>
-
-
+<img src="/src/images/captura.png" width= '300'/>
 ## Available Scripts
 
 In the project directory, you can run:
